@@ -15,13 +15,12 @@ As I know everyone is busy with work, research, and classes, this workshop is no
 
 **Date:** 13th and 15th July (Tuesday & Thursday)  
 **Time:** 3.00 - 4.30pm  
-**Location:** Virtually, via [Zoom](https://zoom.us/)
+**Location:** Virtually, via [Zoom](https://zoom.us/) (link will be provided upon registration)
 
 
 
 
 ## Sign-up and survey
-#TODO
 * Please click [here](https://evaluate.ttu.edu/surveys/?s=FTLNWMJ4EW) to sign-up!
 * Please click [here]() to complete the post-workshop survey.
 
