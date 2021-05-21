@@ -5,7 +5,7 @@ layout: default
 
 # R Data Visualization Workshop Homepage
 
-{% include figure.html img="rvis.png" alt="intro image here" caption="R Data Visualization Workshop" width="75%" %}
+{% include figure.html img="images/rvis.png" alt="intro image here" caption="R Data Visualization Workshop" width="75%" %}
 
 This is a two-day hands on workshop based on the book [R Graphics Cookbook](https://r-graphics.org). You will learn basic and advanced data visualization in R and learn some tips and tricks on creating plots, whether for a publication or a project. Along the way, you may encounter many packages and functions from the tidyverse including dplyr, tidyr, purrr, tibble, stringr, lubridate, and forcats.
 
