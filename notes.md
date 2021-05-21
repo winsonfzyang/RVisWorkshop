@@ -1,1 +1,1 @@
-* Please click [here](https://ttupsych.az1.qualtrics.com/jfe/form/SV_2au6MN31RW0U3l3) to complete the post-workshop survey.
+* Please click [here]() to complete the post-workshop survey.

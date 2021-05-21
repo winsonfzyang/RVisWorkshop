@@ -4,7 +4,7 @@
 
 # Site settings
 # title appears in the header
-title: "RWorkshop"
+title: "R Data Visualization Workshop"
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
@@ -12,15 +12,15 @@ title-icon: "fas fa-laptop-code"
 # description and keywords for meta tags
 description: "Introduction to the tidyverse!"
 keywords: "workshops, websites, gh-pages, jekyll"
-featured-image: "/images/tidyverse.png"
+featured-image: "/images/rvis.jpg"
 
 # author settings for cc-by, appears in the footer
 author: "Winson Yang"
-pub_year: "2020"
+pub_year: "2021"
 github_username: "winsonfzyang"
 
 # add the full url for the github repository
-repo: "https://github.com/winsonfzyang/RWorkshop"
+repo: "https://github.com/winsonfzyang/RVisWorkshop"
 
 # site urls
 # add the url for the domain,
@@ -28,7 +28,7 @@ repo: "https://github.com/winsonfzyang/RWorkshop"
 url: "https://winsonfzyang.github.io"
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: "/RWorkshop"
+baseurl: "/RVisWorkshop"
 
 # add navigaion 
 nav: true

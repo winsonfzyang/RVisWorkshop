@@ -1,13 +1,13 @@
-# R-Workshop
+# R Data Visualization Workshop
 This repository contains all the resources for the R-Workshop.
 
 To get start, you can either clone or download the repository.
 
 
 ## Learning Objectives
-This is a two-day hands on workshop based on the book [R for Data Science](http://r4ds.had.co.nz/). You will learn how to visualize, transform, and model data in R and work with date-times, character strings, and untidy data formats. Along the way, you will learn and use many packages from the tidyverse including ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, lubridate, and forcats.
+This is a two-day hands on workshop based on the book [R Graphics Cookbook](https://r-graphics.org). You will learn basic and advanced data visualization in R and learn some tips and tricks on creating plots, whether for a publication or a project. Along the way, you may encounter many packages and functions from the tidyverse including dplyr, tidyr, purrr, tibble, stringr, lubridate, and forcats.
 
-As I know everyone is busy with work, research, and classes, this workshop is not meant to teach you the basics of R, but to share some best practices in running statistical analysis in R. Hence if you want to learn more foundational R programming, please check out the pre-workshop notes to get started. However, the pre-workshop notes are not as comprehensive as the book; I extract the most fundamental elements that is most commonly used for this workshop.
+As I know everyone is busy with work, research, and classes, this workshop is not meant to teach you the basics of R, but to share some best practices in data visualization in R. Hence if you want to learn more foundational R programming or data wrangling, please check out [R Workshop](https://winsonfzyang.github.io/RWorkshop) to get started. 
 
 
 ## Software Requirements
@@ -20,14 +20,15 @@ In the unlikely event that there are problems with installing R and R Studio, yo
 
 3. The set of relevant R packages, which you can install by connecting to the internet, opening RStudio, and running:  
 
-    `install.packages(
-        c("remotes", "devtools", "rmarkdown", "knitr", "tidyverse", "kableExtra", "skimr",
-        "haven", "readxl", "ggbeeswarm", "ggrepel", "xaringan", "DT")
+    ```
+    install.packages(
+        c("remotes", "devtools", "rmarkdown", "knitr", "tidyverse", "skimr",
+        "readxl", "ggbeeswarm", "ggrepel", "xaringan", "DT")
     )
 
     remotes::install_github('yihui/xaringan')  
-    remotes::install_github("rstudio/fontawesome")`
-
+    remotes::install_github("rstudio/fontawesome")
+    ```
 
 
 In some cases for Windows users, you may encounter errors while installing some packages as you need Rtools installed. In that case, please install [Rtools here](https://cran.rstudio.com/bin/windows/Rtools/).
@@ -38,12 +39,13 @@ If you're a new R user, it's possible that installing R will be challenging. In 
 
 # Resources
 
-These are some resources to get you start or continue learning R. The list is non-exhaustive; as i find more interesting resource, I will put them here.
+These are some resources to get you start or continue learning R or ggplot. The list is non-exhaustive; as I find more interesting resource, I will put them here.
 
 [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets)<br/>
+[ggplot documentation](https://github.com/erikgahner/awesome-ggplot2)<br/>
+[ggplot2 book](https://ggplot2-book.org/)<br/>
 [UCLA's Statistics Consulting Group](https://stats.idre.ucla.edu)<br/>
 [R for Data Science](https://r4ds.had.co.nz)<br/>
-[Our Coding Club](https://ourcodingclub.github.io/)<br/>
 [R for Psychological Science](http://psyr.djnavarro.net/)<br/>
 [Teacups, giraffes, and statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/)<br/>
 
