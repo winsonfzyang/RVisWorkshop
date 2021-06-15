@@ -1,0 +1,40 @@
+/* -----------div tips------------- */
+
+div.puzzle, div.fyi, div.demo, div.note {
+  padding: 1em;
+  margin: 1em 0;
+  padding-left: 80px;
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: 10px center;
+  min-height: 100px;
+}
+
+ 
+div.puzzle {
+  color: #75658c;
+  background-color: #dbceef;
+  border: dashed 5px #d8c1f7;
+  background-image: url("img/Your-turn.png");
+}
+
+div.fyi {
+  color: #30ab2e;
+  background-color: #a8e39a;
+  border: dashed 5px #7cc489;
+  background-image: url("img/fyi.png");
+}
+
+div.demo {
+  color: #75658c;
+  background-color: #dbceef;
+  border: dashed 5px #d8c1f7;
+  background-image: url("img/Live-code.png");
+}
+
+div.note {
+  color: #1f5386;
+  background-color: #bed3ec;
+  border: dashed 5px #dfedff;
+  background-image: url("img/lightbulb.png");
+}
