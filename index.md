@@ -13,11 +13,13 @@ As I know everyone is busy with work, research, and classes, this workshop is no
 
 ## Workshop Information
 
-**Date:** 13th and 15th July (Tuesday & Thursday)  
+**Date:** 13th and 15th July 2021 (Tuesday & Thursday)  
 **Time:** 3.00 - 4.30pm  
 **Location:** Virtually, via [Zoom](https://zoom.us/) (link will be provided upon registration)
 
-
+Pre-requisites:
+* Basic understanding of R 
+(Don't worry if you don't have any experience in R. You will get hands-on practice via the step-by-step exercises)
 
 
 ## Sign-up and survey
