@@ -1,0 +1,43 @@
+---
+title: "CountdownTimer"
+author: "WinsonYang"
+date: "6/17/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require(remotes)) install.packages("remotes"); library(remotes)
+if (!require(countdown)) install_github("gadenbuie/countdown"); library(countdown)
+```
+
+## R Markdown
+
+This is a countdown timer for the exercise
+
+``` {css, echo = FALSE}
+#special_timer.running {
+  background-color: black;
+
+}
+#special_timer.finished {
+  background-color: black;
+
+}
+#special_timer.running .countdown-digits {
+  color: #fdf6e3;
+}
+
+```
+
+
+```{r countdown30, echo = FALSE}
+# Get the solarized color palette
+countdown(minutes = 1, seconds = 00, 
+          warn_when = 20,
+          left = 1, right = 0,
+          padding = "10px",
+          margin = "5%",
+          font_size = "12em",
+          id = "special_timer")
+```
