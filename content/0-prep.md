@@ -17,8 +17,8 @@ In the unlikely event that there are problems with installing R and R Studio, yo
     ```
     install.packages(
         c("remotes", "devtools", "rmarkdown", "knitr", "tidyverse", "skimr",
-        "readxl", "ggbeeswarm", "ggrepel", "xaringan", "DT")
-    )
+          "visNetwork", "ggrepel", "xaringan", "viridis", "gghighlight")
+          )
 
     remotes::install_github('yihui/xaringan')  
     remotes::install_github("rstudio/fontawesome")
@@ -30,9 +30,9 @@ In some cases for Windows users, you may encounter errors while installing some 
 
 2. For best experience during the workshop, please have a second monitor or second display to follow along with the demonstration. If you do not have one, it is okay. You can also follow along with your copy of the materials.
 
-To download the materials for this workshop, you have to go to this workshop's [repository](https://github.com/winsonfzyang/RWorkshop) and download the entire repository. Please take some time to look through the slides and/or content before the workshop.
+To download the materials for this workshop, you have to go to this workshop's [repository](https://github.com/winsonfzyang/RVisWorkshop) and download the entire repository. Please take some time to look through the slides and/or content before the workshop.
 
-Once you downlaoded the repository, click `RWorkshop.Rproj` to open the project workspace in RStudio. Then, please ensure that R Markdown is working properly. To do that, open the `00-Getting-started.Rmd` file located in the `handouts` directory. Then click *knit* to create a html document.
+Once you have downloaded the repository, click `RVisWorkshop.Rproj` to open the project workspace in RStudio. Then, please ensure that R Markdown is working properly. To do that, open the `00-Getting-started.Rmd` file located in the `handouts` directory. Then click *knit* to create a html document.
 
 
 <img src="img/knit.jpg" width="400">
