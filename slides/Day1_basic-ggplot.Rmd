@@ -280,7 +280,34 @@ df %>%
   theme_minimal() 
 ```
 
+
 ---
+
+class: center, middle
+
+# Additional notes
+
+
+Along the workshop, I will try to share as many best practices as possible. These will be denoted by an fyi box like this:
+
+
+<div class="fyi">
+This is a best practice in R coding (or at least i think it is)
+</div>
+
+<div class="puzzle">
+This is an exercise for you to complete
+</div>
+
+<div class="note">
+This is a is a hint for the exercise
+</div>
+
+
+
+---
+
+
 
 
 class: center, middle
