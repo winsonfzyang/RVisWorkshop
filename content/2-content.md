@@ -11,7 +11,7 @@ I recommend you to download the repository in its entirety to make your learning
 
 [Click here to go to this workshop's repository](https://github.com/winsonfzyang/RVisWorkshop) (repository will be ready three days before the workshop)
 
-As this is only a short workshop, we may not have enough time to go through all the functions for ggplot. Hence it is up to you to learn more about ggplot after this workshop. More resources are available in [resources](https://github.com/winsonfzyang/RVisWorkshop/content/3-resources.html)
+As this is only a short workshop, we may not have enough time to go through all the functions for ggplot. Hence it is up to you to learn more about ggplot after this workshop. More resources are available in [resources](3-resources.md)
 
 ### Day 1: Basic plotting
 Day 1 introduces you to the basics of of. We will go through the basics of ggplot:
