@@ -17,7 +17,8 @@ In the unlikely event that there are problems with installing R and R Studio, yo
     ```
     install.packages(
         c("remotes", "devtools", "rmarkdown", "knitr", "tidyverse", "skimr",
-          "visNetwork", "ggrepel", "xaringan", "viridis", "gghighlight")
+          "colorspace", "visNetwork", "ggrepel", "ggpubr", "xaringan", "viridis",
+          "gghighlight")
           )
 
     remotes::install_github('yihui/xaringan')  

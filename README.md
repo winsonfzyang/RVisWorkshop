@@ -11,7 +11,7 @@ To get start, you can either clone or download the repository.
 -----
 
 :spiral_calendar: July 13 and 15, 2021  
-:alarm_clock:     03:00PM - 4:30 CT  
+:alarm_clock:     03:00PM - 4:30PM CT  
 :hotel:           \[ZOOM\] (link provided after sign-up)
 
 -----
@@ -35,8 +35,9 @@ In the unlikely event that there are problems with installing R and R Studio, yo
     ```
     install.packages(
         c("remotes", "devtools", "rmarkdown", "knitr", "tidyverse", "skimr",
-        "readxl", "ggbeeswarm", "ggrepel", "xaringan", "DT")
-    )
+          "colorspace", "visNetwork", "ggrepel", "ggpubr", "xaringan", "viridis",
+          "gghighlight")
+          )
 
     remotes::install_github('yihui/xaringan')  
     remotes::install_github("rstudio/fontawesome")

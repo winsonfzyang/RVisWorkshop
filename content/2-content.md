@@ -15,25 +15,26 @@ As this is only a short workshop, we may not have enough time to go through all 
 
 ### Day 1: Basic plotting
 Day 1 introduces you to the basics of of. We will go through the basics of ggplot:
-* grammar of graphics
-* individual and stacking geoms: `geom_*`
-* adding colors
-* faceting your plots using `facet_wrap` & `facet_grid`
-* creating labels
-* saving plot
+* Grammar of graphics
+* Individual and stacking geoms: `geom_*`
+* Adding colors
+* Faceting your plots using `facet_wrap` & `facet_grid`
+* Creating labels
+* Saving plot
 
 
 
 [Slides for Day 1: Basic plotting (TBD)]()  
+[Completed workbook (TBD)]()  
 
 
 ### Day 2: Advanced plotting
 For day 2, we will go through more advanced plotting functions and tweaks! This is where you can get creative with your colors, themes, settings, etc. Show your artsy side with ggplot!
-* changing color
-* creating your ggplot theme
-* tips and tricks!
+* Changing color
+* Adding error bars
+* Adding text
+* Creating your ggplot theme
+* Tips and tricks!
 * Demonstration of domain-specific plots
 
-
-[Slides for Day 2: Advanced plotting (TBD)]()  
-
+[Completed workbook (TBD)]()  
