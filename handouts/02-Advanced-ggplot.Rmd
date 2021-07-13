@@ -180,7 +180,7 @@ There are several statistics we can add to our plot, but today we are going to f
 Before adding error bars, we need to create these summary statistics first. We can use `mean()`, `median()`, `sd()` for means, medians, and standard deviation. There is no function for standard error, but you can easily create one using a function like this:
 
 ``` {r function-se}
-se <- function(x) sqrt(var(x)/(length(x)-1))
+se <- function(x){sd(x)/sqrt(length(x))}
 ```
 
 To create means and SD, we can pipe our data to `group_by() %>% summarize()` to group the scores by some variable, and summarize the scores for each group.
