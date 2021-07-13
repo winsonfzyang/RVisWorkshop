@@ -1,7 +1,7 @@
 ---
 title: "CountdownTimer"
 author: "WinsonYang"
-date: "6/17/2020"
+date: "`r Sys.Date()`"
 output: html_document
 ---
 
@@ -31,9 +31,31 @@ This is a countdown timer for the exercise
 ```
 
 
-```{r countdown30, echo = FALSE}
+```{r countdown60, echo = FALSE}
 # Get the solarized color palette
 countdown(minutes = 1, seconds = 00, 
+          warn_when = 20,
+          left = 0, right = 1,
+          padding = "10px",
+          margin = "5%",
+          font_size = "12em",
+          id = "special_timer")
+```
+
+```{r countdown180, echo = FALSE}
+# Get the solarized color palette
+countdown(minutes = 3, seconds = 00, 
+          warn_when = 20,
+          left = 0.5, right = 0.5,
+          padding = "10px",
+          margin = "5%",
+          font_size = "12em",
+          id = "special_timer")
+```
+
+```{r countdown300, echo = FALSE}
+# Get the solarized color palette
+countdown(minutes = 5, seconds = 00, 
           warn_when = 20,
           left = 1, right = 0,
           padding = "10px",
@@ -41,3 +63,4 @@ countdown(minutes = 1, seconds = 00,
           font_size = "12em",
           id = "special_timer")
 ```
+
