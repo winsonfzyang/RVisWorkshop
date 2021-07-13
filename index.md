@@ -18,13 +18,12 @@ As I know everyone is busy with work, research, and classes, this workshop is no
 **Location:** Virtually, via [Zoom](https://zoom.us/) (link will be provided upon registration)
 
 Pre-requisites:
-* Basic understanding of R 
-(Don't worry if you don't have any experience in R. You will get hands-on practice via the step-by-step exercises)
+* Tried out R before (Don't worry if you don't have any experience in R. You will get hands-on practice via the step-by-step exercises)
 
 
 ## Sign-up and survey
 * Please click [here](https://evaluate.ttu.edu/surveys/?s=FTLNWMJ4EW) to sign-up!
-* Please click [here]() to complete the post-workshop survey.
+* Please click [here](https://evaluate.ttu.edu/surveys/?s=JDPRATLKLW) to complete the post-workshop survey.
 
 
 ## Contact
