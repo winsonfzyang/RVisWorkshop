@@ -24,8 +24,9 @@ Day 1 introduces you to the basics of of. We will go through the basics of ggplo
 
 
 
-[Slides for Day 1: Basic plotting (TBD)]()  
-[Completed workbook (TBD)]()  
+[Slides for Day 1: Basic plotting](https://winsonfzyang.github.io/RVisWorkshop/slides/Day1_basic-ggplot.html#1)  
+[Video Replay (TBD)]()
+[Completed workbook](https://winsonfzyang.github.io/RVisWorkshop/handouts/01-Basic-ggplot_completed.html)  
 
 
 ### Day 2: Advanced plotting
