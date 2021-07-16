@@ -21,8 +21,7 @@ Pre-requisites:
 * Tried out R before (Don't worry if you don't have any experience in R. You will get hands-on practice via the step-by-step exercises)
 
 
-## Sign-up and survey
-* Please click [here](https://evaluate.ttu.edu/surveys/?s=FTLNWMJ4EW) to sign-up!
+## Post-workshop Survey
 * Please click [here](https://evaluate.ttu.edu/surveys/?s=JDPRATLKLW) to complete the post-workshop survey.
 
 
