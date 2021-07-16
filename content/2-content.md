@@ -38,4 +38,5 @@ For day 2, we will go through more advanced plotting functions and tweaks! This 
 * Tips and tricks!
 * Demonstration of domain-specific plots
 
-[Completed workbook (TBD)]()  
+[Video Replay](https://youtu.be/v99A0ZYK9uI)  
+[Completed workbook](https://winsonfzyang.github.io/RVisWorkshop/handouts/02-Advanced-ggplot_completed.html)  
